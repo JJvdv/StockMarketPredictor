@@ -12,3 +12,4 @@ Stock Prediction machine learning model using Tensorflow
 
 See Requirements.txt for required python packages.
 
+![Stock Prediction Output](stock_prediction_output.png)
